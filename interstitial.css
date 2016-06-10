@@ -4,7 +4,7 @@
     width: 100%;
     height: 25%;
     background-color: orange;
-    animation: slideUp 0.5s;
+    animation: slideUp 2s;
 }
 
 @keyframes slideUp {
